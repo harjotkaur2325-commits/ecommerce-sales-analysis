@@ -1,4 +1,4 @@
-# ecommerce-sales-analysis
+# Ecommerce-sales-analysis
 E-commerce sales data analysis using Python
 
 ## Objective
